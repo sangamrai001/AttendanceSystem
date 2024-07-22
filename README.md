@@ -12,6 +12,7 @@
 ## Technologies Used
 
 - **Python**: The primary programming language for the project.
+- **Dilib Wheel**: It very important for installing the face-recogntion library. 
 - **face-recognition**: Library used for face detection and recognition.
 - **tkinter**: Python's standard GUI toolkit for creating the graphical interface.
 - **CSV**: For storing and updating attendance records.
